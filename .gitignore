@@ -1,1 +1,12 @@
-venv
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.env
+*.sqlite3
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
